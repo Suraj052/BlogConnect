@@ -10,4 +10,5 @@ The major goal of BlogConnect is to give people a platform to find, make, and ex
 * Backend: Django Rest Framework for API development
 - UI Design: Figma
 
-**Backend Code Link : ** https://github.com/Suraj052/DRF_blog.git
+
+Backend Code Link : https://github.com/Suraj052/DRF_blog.git
