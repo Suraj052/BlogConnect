@@ -14,9 +14,7 @@ The major goal of BlogConnect is to give people a platform to find, make, and ex
 Backend Code Link : https://github.com/Suraj052/DRF_blog.git
 
 
-
-
-Screenshots of the app.............................................................................................................................
+.................................................................................................. 
 
 ![ss](https://github.com/Suraj052/BlogConnect/assets/78478151/439e7211-2208-411e-8e31-092498852595)
 
